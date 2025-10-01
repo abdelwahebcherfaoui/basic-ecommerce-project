@@ -1,4 +1,4 @@
-# basic-ecommerce-project ligne depuis test-merge-rebase
+# basic-ecommerce-project ligne depuis test-merge-rebase ligne1
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
