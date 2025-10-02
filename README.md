@@ -4,6 +4,8 @@
 
 # basic-ecommerce-project ligne depuis feature
 
+# basic-ecommerce-project j'ajoute cette ligne dans le main
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
