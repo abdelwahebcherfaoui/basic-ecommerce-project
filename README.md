@@ -4,7 +4,7 @@
 
 # basic-ecommerce-project ligne depuis feature
 
-# basic-ecommerce-project j'ajoute cette ligne dans le main
+# calculer le prix de remourssement
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
